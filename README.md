@@ -7,6 +7,22 @@ Streamlit. The project provides an interactive dashboard to understand
 sales performance, customer behavior, product performance and regional
 sales trends.
 
+## 📊 Dashboard Preview
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### 📈 Sales Analysis
+
+![Sales Analysis](screenshots/dashboard_sales_analysis.png)
+
+### 👥 Customer Analysis
+
+![Customer Analysis](screenshots/dashboard_customer_analysis.png)
+
+### 📦 Product Analysis
+
+![Product Analysis](screenshots/dashboard_product_analysis.png)
+
 ## 🎯 Objectives
 
 - Analyze overall sales performance
