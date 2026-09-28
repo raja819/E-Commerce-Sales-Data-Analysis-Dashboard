@@ -38,7 +38,6 @@ query = "SELECT * FROM cleaned_sales"
 
 df = pd.read_sql(query, connection)
 
-st.success("🟢 MySQL Connected Successfully!")
 
 # =====================================================
 # DATA PREPARATION
