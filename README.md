@@ -23,6 +23,10 @@ sales trends.
 
 ![Product Analysis](./screenshots/dashboard_product_analysis.jpeg)
 
+### 📥 Filter Analysis 
+
+![Filter Analysis](./screenshots/dashboard_filters_analysis.jpeg)
+
 ## 🎯 Objectives
 
 - Analyze overall sales performance
