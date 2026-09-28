@@ -9,19 +9,19 @@ sales trends.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](./screenshots/dashboard_overview.jpeg)
 
 ### 📈 Sales Analysis
 
-![Sales Analysis](screenshots/dashboard_sales_analysis.png)
+![Sales Analysis](./screenshots/dashboard_sales_analysis.jpeg)
 
 ### 👥 Customer Analysis
 
-![Customer Analysis](screenshots/dashboard_customer_analysis.png)
+![Customer Analysis](./screenshots/dashboard_customer_analysis.jpeg)
 
 ### 📦 Product Analysis
 
-![Product Analysis](screenshots/dashboard_product_analysis.png)
+![Product Analysis](./screenshots/dashboard_product_analysis.jpeg)
 
 ## 🎯 Objectives
 
