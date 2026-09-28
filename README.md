@@ -6,7 +6,7 @@ This project analyzes e-commerce sales data using Python, SQL and
 Streamlit. The project provides an interactive dashboard to understand
 sales performance, customer behavior, product performance and regional
 sales trends.
-
+#
 ## 📊 Dashboard Preview
 
 ![Dashboard Overview](./screenshots/dashboard_overview.jpeg)
